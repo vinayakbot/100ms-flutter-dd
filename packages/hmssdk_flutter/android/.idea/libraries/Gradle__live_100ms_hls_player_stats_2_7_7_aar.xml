@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: live.100ms:hls-player-stats:2.7.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/16b7d16167466d88a1cdff332765b03c/transformed/jetified-hls-player-stats-2.7.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/16b7d16167466d88a1cdff332765b03c/transformed/jetified-hls-player-stats-2.7.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/hls-player-stats/2.7.7/3e1e96c5c8f000cc67cfd14102557cf866ef5ff6/hls-player-stats-2.7.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/hls-player-stats/2.7.7/dab6e7750d8aa84466fe20a5a8ae9fd23e50c4cd/hls-player-stats-2.7.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

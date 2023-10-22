@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: live.100ms:android-sdk:2.7.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a9a03cdd3242273ae21c6f42c7e403b5/transformed/jetified-android-sdk-2.7.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9a03cdd3242273ae21c6f42c7e403b5/transformed/jetified-android-sdk-2.7.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/android-sdk/2.7.7/f836fbbee35e5c02b37b500740934f13cae7f8e4/android-sdk-2.7.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/android-sdk/2.7.7/82e8dc965cb9f7214a088686ee346436fe60f0c6/android-sdk-2.7.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

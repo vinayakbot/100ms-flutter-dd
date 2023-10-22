@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: live.100ms:webrtc:m107-hms-1.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ab6d1af1c385236b266b2b93c2d193f5/transformed/jetified-webrtc-m107-hms-1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab6d1af1c385236b266b2b93c2d193f5/transformed/jetified-webrtc-m107-hms-1.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/webrtc/m107-hms-1.6/f0c33710ea0793128467d9fab95f6f03d9a16d91/webrtc-m107-hms-1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/webrtc/m107-hms-1.6/7384f91442eba5837b44c50214dcb445f2030a60/webrtc-m107-hms-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

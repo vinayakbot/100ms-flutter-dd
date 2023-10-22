@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: live.100ms:video-view:2.7.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/654511986eec8e60b426c50c0b7f611c/transformed/jetified-video-view-2.7.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/654511986eec8e60b426c50c0b7f611c/transformed/jetified-video-view-2.7.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/video-view/2.7.7/e86a5010f1727b05fb347a5f61b3c73cac3b0b73/video-view-2.7.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/video-view/2.7.7/b59b2e518eab384ca64e48abb260f2cf0e30231c/video-view-2.7.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

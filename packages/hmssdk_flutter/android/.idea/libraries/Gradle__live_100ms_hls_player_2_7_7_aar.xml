@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: live.100ms:hls-player:2.7.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c0f23d801e5598b4d1a77da7d4c1709c/transformed/jetified-hls-player-2.7.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0f23d801e5598b4d1a77da7d4c1709c/transformed/jetified-hls-player-2.7.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/hls-player/2.7.7/d05acb042e83c43b514a6615b3088086004a15fb/hls-player-2.7.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/live.100ms/hls-player/2.7.7/37f7f6219ef3b17dc286e053ff63f551f569417f/hls-player-2.7.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
